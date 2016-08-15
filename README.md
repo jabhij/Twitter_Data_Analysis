@@ -1,4 +1,4 @@
-# Twitter_Data_Analysis
+## Twitter Data Analysis
 
 Tips and Tricks to get more twitter Follower or to be among top.
 
@@ -23,5 +23,10 @@ Some of my personal favourite are:
 
 Stay tuned for more detailed description and thoughts on that. Trust me I won't disappoint you.
 
-### Catch me
-- Twitter
+### Catch me -
+
+For any query, ping me on 
+- Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Web: [LetUsTweak] (http://letustweak.com)
+
+Hope, it helps!!  ヅ
