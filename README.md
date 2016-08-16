@@ -9,7 +9,8 @@ As the git repo name says it all. But let me take it further. In this repo I'll 
 ### Ways to Do so (Tricks) --
 
 Some of my personal favourite are:
-- Influencers / Top Tweeters / Organization etc. (Twitter_Appreciation)
+- Influencers / Top Tweeters / Organization etc. 
+([Twitter_Appreciation](https://github.com/jabhij/Twitter_Data_Analysis/blob/master/How_To/Twitter_Appreciation.md))
 - Creating your own trending Lists (Twitter_Trend_List)
 - Getting Mingle up in the ListS -Domain Based (Twitter_Lists)
 - Subscribing to the Lists (Twitter_List_Subs)
