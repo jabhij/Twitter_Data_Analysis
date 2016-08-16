@@ -9,15 +9,15 @@ As the git repo name says it all. But let me take it further. In this repo I'll 
 ### Ways to Do so (Tricks) --
 
 Some of my personal favourite are:
-- Influencers / Top Tweeters / Organization etc. (Appriciation)
-- Creating your own trending Lists
-- Getting Mingle up in the List (Domain Based)
-- Subscribing to the Lists
-- Praising and Motivating
-- Using trendy Hash Tags
-- Giving your views on Retweets
-- Retweeting in every possible domain
-- Continous tweeting or posting
+- Influencers / Top Tweeters / Organization etc. (Twitter_Appreciation)
+- Creating your own trending Lists (Twitter_Trend_List)
+- Getting Mingle up in the ListS -Domain Based (Twitter_Lists)
+- Subscribing to the Lists (Twitter_List_Subs)
+- Praising and Motivating (Twitter_Moto)
+- Using trendy Hash Tags (Twitter_Trendy_HashTags)
+- Giving your views on Retweets (Twitter_Tweet_Views)
+- Retweeting in every possible domain (Twitter_Retweeting)
+- Continous tweeting or posting (Twitter_Continuuity)
 
 ### What else?
 
