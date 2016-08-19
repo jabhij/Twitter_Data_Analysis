@@ -11,7 +11,8 @@ As the git repo name says it all. But let me take it further. In this repo I'll 
 Some of my personal favourite are:
 - Influencers / Top Tweeters / Organization etc. 
 ([Twitter_Appreciation](https://github.com/jabhij/Twitter_Data_Analysis/blob/master/How_To/Twitter_Appreciation.md))
-- Creating your own trending Lists (Twitter_Trend_List)
+- Creating your own trending Lists.
+([Twitter_Trend_List](https://github.com/jabhij/Twitter_Data_Analysis/blob/master/How_To/Twitter_Trend_List.md))
 - Getting Mingle up in the ListS -Domain Based (Twitter_Lists)
 - Subscribing to the Lists (Twitter_List_Subs)
 - Praising and Motivating (Twitter_Moto)
