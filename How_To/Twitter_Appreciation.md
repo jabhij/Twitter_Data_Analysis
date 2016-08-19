@@ -33,5 +33,5 @@ or
 
 ### Points to Remember
 
-- Don't mention more than **2-3 influencers per tweet**.
-- Choose Influencers based on their twitter **feeds / activity / influence / impressions**
+- Don't mention more than **`2-3 influencers per tweet`**.
+- Choose Influencers based on their twitter **`feeds / activity / influence / impressions`**
