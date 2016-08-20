@@ -3,7 +3,7 @@
 
 ### What is it?
 
-Appriciating `people / organizations(top or beginners), influencers` etc on their tweets on regular basis. It can be done `daily, weekly, 
+Appreciating `people / organizations(top or beginners), influencers` etc on their tweets on regular basis. It can be done `daily, weekly, 
 twice a tweek or weekends`.
 
 ### How to?
